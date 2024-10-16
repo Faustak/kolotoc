@@ -1,23 +1,23 @@
 body {
-    background-color: 	#400000;
+    background-color: 	#011f4b;
     margin: 0px;
     color: white;
 }
 
 section {
-    background-color: #800000;
+    background-color: #03396c;
     padding: 20px;
     margin: 20px;
     border-radius: 5px;
 }
 
 a {
-    color: #ff0000;
+    color: #b3cde0;
 }
 
 figure {
-    border: solid 10px #400000;
-    background-color: #400000;
+    border: solid 10px #011f4b;
+    background-color: #011f4b;
 }
 
 header {
@@ -35,7 +35,7 @@ header>img:hover {
 }
 
 nav>a {
-    background-color: #400000;
+    background-color: #011f4b;
     padding: 10px;
     color: white;
     text-decoration: none;
@@ -47,11 +47,11 @@ nav>a {
 }
 
 nav>a:hover {
-    background-color:#bf0000;
+    background-color:#005b96;
 }
 
 table,th,td {
-    background-color: #400000;
+    background-color: #011f4b;
     min-width: 50%;
     text-align: center;
     border-style: solid;
